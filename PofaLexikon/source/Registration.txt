@@ -1,0 +1,12 @@
+elemer	1
+gabor	1
+okos	1
+emoke	1
+anna	password
+andras	1
+ferenc	1234
+bereczki	1
+beni	420
+mira	1
+konyalili	1
+sandor	123

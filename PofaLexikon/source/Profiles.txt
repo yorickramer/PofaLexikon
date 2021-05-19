@@ -1,0 +1,12 @@
+﻿elemer	10101010	women	hungary	kaposva	7677	rezeda	67	emoke	gabor	
+okos	19980617	men	uzsa	new york	$	korcsolya	elemer	emoke	gabor	
+anna	0	$	$	$	$	$	$	gabor	
+ferenc	0	men	Germany	$	$	$	$	andras	emoke	
+emoke	19980808	men	hungary	kaposvar	7400	rezeda	11	gabor	andras	
+bereczki	0	men	$	$	$	$	$	gabor	
+andras	19980617	men	Hungary	Budapest	1101	Irinyi	42	emoke	beni	
+mira	0	$	$	$	$	$	$	emoke	
+konyalili	0	women	Hungary	Kecskemet	$	$	$	
+gabor	19980614	men	USA	New York	$	$	$	emoke	konyalili	
+sandor	0	men	$	$	$	$	$	beni	
+beni	19980621	men	usa	$	$	$	$	emoke	andras	sandor	okos	
